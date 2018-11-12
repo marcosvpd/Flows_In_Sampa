@@ -1,0 +1,20 @@
+		@font-face {
+    font-family: 'knewave';
+    src: url('fonts/knewave.eot');
+    src: url('fonts/knewave.eot') format('embedded-opentype'),
+         url('fonts/knewave.woff2') format('woff2'),
+         url('fonts/knewave.woff') format('woff'),
+         url('fonts/knewave.ttf') format('truetype'),
+         url('fonts/knewave.svg#knewave') format('svg');
+     }
+     .navbar {
+     	background-color: #343131 !important;
+     }
+     .navbar .navbar-brand {
+     	font-family: knewave;
+     	color: white;
+     }
+     .nav-link {
+     	font-family: knewave;
+     	color: white !important;
+     }
