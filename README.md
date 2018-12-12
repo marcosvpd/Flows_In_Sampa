@@ -10,4 +10,4 @@ Lucas Dias Ferreira,
 Jhony Sousa dos Santos.
 
 
-Link do site finalizado: http://www.flowsinsampa.herokuapp.com
+Link do site finalizado: flowsinsampa.herokuapp.com
